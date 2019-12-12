@@ -1,0 +1,18 @@
+input.ng-touched.ng-invalid{
+    border-color: red;
+}
+
+input.ng-valid{
+    border-color: green;
+}
+
+.green-icon{
+    color: #28a745;
+}
+.red-icon{
+    color: #dc3545;
+}
+
+#toast-container > div {
+    opacity:1;
+}
